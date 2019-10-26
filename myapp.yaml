@@ -16,5 +16,5 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: twoling/myapp:32
+      - image: twoling/myapp:31
         name: myapp
